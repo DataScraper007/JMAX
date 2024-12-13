@@ -100,3 +100,4 @@
 2024-12-13 12:47:27,467 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: TypeError: string indices must be integers, not 'str'
 2024-12-13 12:48:14,072 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: AttributeError: module 'apps' has no attribute 'vxd'
 2024-12-13 12:59:02,257 [ERROR] Error in command /counts 0010 01-10-2024 01-11-2024: Command raised an exception: HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+2024-12-13 13:44:28,625 [INFO] Shard ID None has successfully RESUMED session 8e3aaf432e450abf7d92be5ef2f82ebd.

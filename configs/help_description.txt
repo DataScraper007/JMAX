@@ -1,0 +1,3 @@
+/counts <project_id> <from_date> <to_date> <mentions>: Get counts of project
+/logs <date>: Check log file for particular date (date format must be YYYY_MM_DD).
+/generate_project_id <project _id>: Generate project id

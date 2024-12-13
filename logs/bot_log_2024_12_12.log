@@ -1,0 +1,8 @@
+2024-12-12 10:24:39,165 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2024-12-12 10:24:39,189 [INFO] logging in using static token
+2024-12-12 10:24:41,402 [INFO] Shard ID None has connected to Gateway (Session ID: a5c248264c2692481bf3e303e4ee0065).
+2024-12-12 10:44:35,731 [WARNING] Shard ID None has stopped responding to the gateway. Closing and restarting.
+2024-12-12 10:44:36,430 [INFO] Shard ID None session has been invalidated.
+2024-12-12 10:44:42,660 [INFO] Shard ID None has connected to Gateway (Session ID: f423f9868876adb1a0c091da8d8bf04e).
+2024-12-12 11:02:40,639 [WARNING] Shard ID None has stopped responding to the gateway. Closing and restarting.
+2024-12-12 11:02:41,420 [INFO] Shard ID None session has been invalidated.

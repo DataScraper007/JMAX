@@ -1,0 +1,102 @@
+2024-12-13 10:49:47,961 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2024-12-13 10:49:47,975 [INFO] logging in using static token
+2024-12-13 10:49:50,035 [INFO] Shard ID None has connected to Gateway (Session ID: f4d5ab03c9eb8c0b2954ee0af9200500).
+2024-12-13 10:58:52,486 [ERROR] Command not found: /generate_prject_id maxi_ca
+2024-12-13 10:59:12,785 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2024-12-13 10:59:12,788 [INFO] logging in using static token
+2024-12-13 10:59:14,426 [INFO] Shard ID None has connected to Gateway (Session ID: 26d6a5c859dbae26a5745bd6ec9357fc).
+2024-12-13 10:59:31,447 [ERROR] Command not found: /generate_prject_id maxi_ca
+2024-12-13 10:59:40,840 [ERROR] Error in command /generate_project_id maxi_ca: Command raised an exception: TypeError: generate_id() takes 0 positional arguments but 1 was given
+2024-12-13 11:07:31,116 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2024-12-13 11:07:31,122 [INFO] logging in using static token
+2024-12-13 11:07:32,786 [INFO] Shard ID None has connected to Gateway (Session ID: c6b3b58ff934d7139a6a9ae76cef4de2).
+2024-12-13 11:22:46,967 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2024-12-13 11:22:46,974 [INFO] logging in using static token
+2024-12-13 11:22:49,545 [INFO] Shard ID None has connected to Gateway (Session ID: 028bd64796a04e89769c81a3501a8268).
+2024-12-13 11:23:45,427 [ERROR] Error in command /generate_project_id test_project: Command raised an exception: TypeError: not all arguments converted during string formatting
+2024-12-13 11:24:12,303 [INFO] Shard ID None has successfully RESUMED session 028bd64796a04e89769c81a3501a8268.
+2024-12-13 11:25:33,565 [ERROR] Error in command /generate_project_id test_project: Command raised an exception: TypeError: not all arguments converted during string formatting
+2024-12-13 11:26:33,349 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2024-12-13 11:26:33,373 [INFO] logging in using static token
+2024-12-13 11:26:35,150 [INFO] Shard ID None has connected to Gateway (Session ID: 8d138d39a24591a95bf11167de9785bc).
+2024-12-13 11:28:46,996 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2024-12-13 11:28:47,004 [INFO] logging in using static token
+2024-12-13 11:28:48,795 [INFO] Shard ID None has connected to Gateway (Session ID: 6e067f38ec89f11c5fda7a3155ffefee).
+2024-12-13 11:34:30,194 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2024-12-13 11:34:30,197 [INFO] logging in using static token
+2024-12-13 11:34:32,275 [INFO] Shard ID None has connected to Gateway (Session ID: 93afbf56b1e17e41013d951489dfab41).
+2024-12-13 11:34:58,447 [ERROR] Error in command /generate_project_id test_project: Command raised an exception: OperationalError: (1054, "Unknown column 'test_project' in 'where clause'")
+2024-12-13 11:37:42,483 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2024-12-13 11:37:42,487 [INFO] logging in using static token
+2024-12-13 11:37:44,183 [INFO] Shard ID None has connected to Gateway (Session ID: ad3f014ac9127f8086d82b0c7748a27d).
+2024-12-13 11:39:31,871 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: AttributeError: module 'apps' has no attribute ''
+2024-12-13 11:47:24,712 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2024-12-13 11:47:24,718 [INFO] logging in using static token
+2024-12-13 11:47:26,423 [INFO] Shard ID None has connected to Gateway (Session ID: 8e3aaf432e450abf7d92be5ef2f82ebd).
+2024-12-13 11:47:34,622 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: TypeError: string indices must be integers, not 'str'
+2024-12-13 12:08:38,564 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2024-12-13 12:08:38,568 [INFO] logging in using static token
+2024-12-13 12:08:46,677 [INFO] Shard ID None has connected to Gateway (Session ID: ecfd3c6960351ccda73a162fa83e80b2).
+2024-12-13 12:09:41,593 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2024-12-13 12:09:41,597 [INFO] logging in using static token
+2024-12-13 12:09:43,641 [INFO] Shard ID None has connected to Gateway (Session ID: fb522acc3997e932e0ee627ebe5f74ab).
+2024-12-13 12:09:54,718 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: TypeError: string indices must be integers, not 'str'
+2024-12-13 12:09:55,167 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: TypeError: string indices must be integers, not 'str'
+2024-12-13 12:18:26,381 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2024-12-13 12:18:26,385 [INFO] logging in using static token
+2024-12-13 12:18:28,221 [INFO] Shard ID None has connected to Gateway (Session ID: 32836b188b5a1d6b5c24d481cf34a8d6).
+2024-12-13 12:18:44,930 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: TypeError: string indices must be integers, not 'str'
+2024-12-13 12:18:44,959 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: TypeError: string indices must be integers, not 'str'
+2024-12-13 12:21:27,969 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2024-12-13 12:21:27,973 [INFO] logging in using static token
+2024-12-13 12:21:29,712 [INFO] Shard ID None has connected to Gateway (Session ID: 7d581b3db7bc3048b2a7628b02c80815).
+2024-12-13 12:21:49,040 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: TypeError: string indices must be integers, not 'str'
+2024-12-13 12:21:49,154 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: TypeError: string indices must be integers, not 'str'
+2024-12-13 12:23:48,593 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2024-12-13 12:23:48,597 [INFO] logging in using static token
+2024-12-13 12:23:50,345 [INFO] Shard ID None has connected to Gateway (Session ID: 26bbf17f4b05dfa0063c75dd6307d061).
+2024-12-13 12:23:59,972 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: TypeError: string indices must be integers, not 'str'
+2024-12-13 12:24:00,043 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: TypeError: string indices must be integers, not 'str'
+2024-12-13 12:26:02,489 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2024-12-13 12:26:02,496 [INFO] logging in using static token
+2024-12-13 12:26:04,195 [INFO] Shard ID None has connected to Gateway (Session ID: 6d6bb028a84d88b57c5197016a3acdf3).
+2024-12-13 12:26:27,413 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: TypeError: string indices must be integers, not 'str'
+2024-12-13 12:26:27,437 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: AttributeError: module 'apps' has no attribute 'fjdxkf'
+2024-12-13 12:28:35,044 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2024-12-13 12:28:35,050 [INFO] logging in using static token
+2024-12-13 12:28:37,012 [INFO] Shard ID None has connected to Gateway (Session ID: d81ae2ee09289245c63bcd72662395b6).
+2024-12-13 12:28:56,721 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: TypeError: string indices must be integers, not 'str'
+2024-12-13 12:28:56,747 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: TypeError: string indices must be integers, not 'str'
+2024-12-13 12:30:53,557 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2024-12-13 12:30:53,565 [INFO] logging in using static token
+2024-12-13 12:30:55,375 [INFO] Shard ID None has connected to Gateway (Session ID: d292048cc296de25c562d9fa14af7561).
+2024-12-13 12:31:13,930 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: TypeError: string indices must be integers, not 'str'
+2024-12-13 12:31:14,001 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: TypeError: string indices must be integers, not 'str'
+2024-12-13 12:37:13,353 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2024-12-13 12:37:13,356 [INFO] logging in using static token
+2024-12-13 12:37:15,249 [INFO] Shard ID None has connected to Gateway (Session ID: 66eb4d928dd407011e45cb63e0c62a85).
+2024-12-13 12:37:16,107 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: TypeError: string indices must be integers, not 'str'
+2024-12-13 12:37:16,148 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: TypeError: string indices must be integers, not 'str'
+2024-12-13 12:38:43,731 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2024-12-13 12:38:43,735 [INFO] logging in using static token
+2024-12-13 12:38:46,114 [INFO] Shard ID None has connected to Gateway (Session ID: aad99526ad4e2143d5c384416affec60).
+2024-12-13 12:39:08,121 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: TypeError: string indices must be integers, not 'str'
+2024-12-13 12:39:08,131 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: TypeError: string indices must be integers, not 'str'
+2024-12-13 12:43:44,053 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2024-12-13 12:43:44,057 [INFO] logging in using static token
+2024-12-13 12:43:45,890 [INFO] Shard ID None has connected to Gateway (Session ID: b0c85a9334264e7a3040266a174410a0).
+2024-12-13 12:43:56,235 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: TypeError: string indices must be integers, not 'str'
+2024-12-13 12:43:56,316 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: TypeError: string indices must be integers, not 'str'
+2024-12-13 12:44:29,090 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2024-12-13 12:44:29,094 [INFO] logging in using static token
+2024-12-13 12:44:42,867 [WARNING] Can't keep up, shard ID None websocket is 12.3s behind.
+2024-12-13 12:44:42,868 [WARNING] Can't keep up, shard ID None websocket is 12.3s behind.
+2024-12-13 12:44:44,724 [INFO] Shard ID None has connected to Gateway (Session ID: 0a1645a8fda1e408e5295a54eca72a55).
+2024-12-13 12:44:45,586 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: TypeError: string indices must be integers, not 'str'
+2024-12-13 12:44:45,834 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: TypeError: string indices must be integers, not 'str'
+2024-12-13 12:47:14,771 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2024-12-13 12:47:14,775 [INFO] logging in using static token
+2024-12-13 12:47:16,407 [INFO] Shard ID None has connected to Gateway (Session ID: 487815262fad3c01625c0fc2c5b77408).
+2024-12-13 12:47:27,467 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: TypeError: string indices must be integers, not 'str'
+2024-12-13 12:48:14,072 [ERROR] Error in command /counts 9938 01-10-2024 01-11-2024: Command raised an exception: AttributeError: module 'apps' has no attribute 'vxd'
+2024-12-13 12:59:02,257 [ERROR] Error in command /counts 0010 01-10-2024 01-11-2024: Command raised an exception: HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
